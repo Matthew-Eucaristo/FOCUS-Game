@@ -22,5 +22,6 @@
 > Many assets of this game is from Poly Pizza and modified to better suit this game. We don't intend to infringe anyone's copyright.
 
 - Drafting Table by Joshua Johanson [CC-BY] via Poly Pizza
+- Animated Platformer Character byQuaternius
 
 and many more from Poly Pizza
