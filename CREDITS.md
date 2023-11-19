@@ -24,5 +24,6 @@
 - Drafting Table by Joshua Johanson [CC-BY] via Poly Pizza
 - Animated Platformer Character byQuaternius
 - Steve byQuaternius
+- Bed Single byKenney
 
 and many more from Poly Pizza
