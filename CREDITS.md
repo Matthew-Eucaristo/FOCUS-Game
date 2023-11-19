@@ -23,5 +23,6 @@
 
 - Drafting Table by Joshua Johanson [CC-BY] via Poly Pizza
 - Animated Platformer Character byQuaternius
+- Steve byQuaternius
 
 and many more from Poly Pizza
