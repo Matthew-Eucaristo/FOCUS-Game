@@ -26,5 +26,6 @@
 - Steve byQuaternius
 - Bed Single byKenney
 - Shield byQuaternius
+- Shiba Inu byQuaternius
 
 and many more from Poly Pizza
