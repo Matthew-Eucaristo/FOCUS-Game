@@ -25,5 +25,6 @@
 - Animated Platformer Character byQuaternius
 - Steve byQuaternius
 - Bed Single byKenney
+- Shield byQuaternius
 
 and many more from Poly Pizza
