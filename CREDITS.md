@@ -15,6 +15,14 @@
 ---
 
 # Credits
+
+## Kenney
+Many thanks to Kenney Game Assets because we are able to get the All-in-1 1.7.1 version of it.  
+We use it a lot in our game. Thanks for it.
+
+## Freesound.org
+- Dog barking : https://freesound.org/people/InspectorJ/sounds/406085/
+
 ## Flaticon
 - Crosshair : <a href="https://www.flaticon.com/free-icons/crosshair" title="crosshair icons">Crosshair icons created by Barudaklier - Flaticon</a>
 
