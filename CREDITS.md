@@ -24,7 +24,6 @@ We use it a lot in our game. Thanks for it.
 - Dog barking : https://freesound.org/people/InspectorJ/sounds/406085/
 
 ## Flaticon
-- Crosshair : <a href="https://www.flaticon.com/free-icons/crosshair" title="crosshair icons">Crosshair icons created by Barudaklier - Flaticon</a>
 
 ## Poly Pizza
 > Many assets of this game is from Poly Pizza and modified to better suit this game. We don't intend to infringe anyone's copyright.
