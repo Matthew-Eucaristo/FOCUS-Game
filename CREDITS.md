@@ -41,5 +41,6 @@ We use it a lot in our game. Thanks for it.
 - Desert marigold by Poly by Google [CC-BY] via Poly Pizza
 - tulip 3 by Hugo Gibson [CC-BY] via Poly Pizza
 - Flowers byCreativeTrio
+- Wood Log byQuaternius
 
 and many more from Poly Pizza
