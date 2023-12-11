@@ -37,5 +37,9 @@ We use it a lot in our game. Thanks for it.
 - Tree by ParfaitUwU [CC-BY] via Poly Pizza
 - Tree by Marc Solà [CC-BY] via Poly Pizza
 - Tree by Jarlan Perez [CC-BY] via Poly Pizza
+- Grass Patch by Danni Bittman [CC-BY] via Poly Pizza
+- Desert marigold by Poly by Google [CC-BY] via Poly Pizza
+- tulip 3 by Hugo Gibson [CC-BY] via Poly Pizza
+- Flowers byCreativeTrio
 
 and many more from Poly Pizza
