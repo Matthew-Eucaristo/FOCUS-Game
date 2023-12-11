@@ -34,5 +34,8 @@ We use it a lot in our game. Thanks for it.
 - Bed Single byKenney
 - Shield byQuaternius
 - Shiba Inu byQuaternius
+- Tree by ParfaitUwU [CC-BY] via Poly Pizza
+- Tree by Marc Solà [CC-BY] via Poly Pizza
+- Tree by Jarlan Perez [CC-BY] via Poly Pizza
 
 and many more from Poly Pizza
