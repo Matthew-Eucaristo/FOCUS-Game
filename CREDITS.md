@@ -42,6 +42,7 @@ We use it a lot in our game. Thanks for it.
 - tulip 3 by Hugo Gibson [CC-BY] via Poly Pizza
 - Flowers byCreativeTrio
 - Wood Log byQuaternius
+- Wooden Sign byiPoly3D
 
 and many more from Poly Pizza
 
