@@ -44,3 +44,10 @@ We use it a lot in our game. Thanks for it.
 - Wood Log byQuaternius
 
 and many more from Poly Pizza
+
+# Chosic
+- Wallpaper by Kevin MacLeod | https://incompetech.com/
+Music promoted by https://www.chosic.com/free-music/all/
+Creative Commons CC BY 3.0
+https://creativecommons.org/licenses/by/3.0/
+ 
