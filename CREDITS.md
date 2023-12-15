@@ -53,4 +53,12 @@ and many more from Poly Pizza
 Music promoted by https://www.chosic.com/free-music/all/
 Creative Commons CC BY 3.0
 https://creativecommons.org/licenses/by/3.0/
+- Superepic by Alexander Nakarada | https://creatorchords.com/
+Music promoted by https://www.chosic.com/free-music/all/
+Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/  
+- Colorful Flowers by Tokyo Music Walker | https://soundcloud.com/user-356546060
+Music promoted by https://www.chosic.com/free-music/all/
+Creative Commons CC BY 3.0
+https://creativecommons.org/licenses/by/3.0/
  
