@@ -43,6 +43,8 @@ We use it a lot in our game. Thanks for it.
 - Flowers byCreativeTrio
 - Wood Log byQuaternius
 - Wooden Sign byiPoly3D
+- Cube Guy Character byQuaternius
+- Cube Woman Character byQuaternius
 
 and many more from Poly Pizza
 
